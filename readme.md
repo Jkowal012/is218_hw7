@@ -23,7 +23,7 @@ PUT YOUR QR CODE IMAGE
 2.  Add an image of viewing the log of successfully creating the QR code below.
 
 PUT YOUR LOG IMAGE HERE
-
+![Logimage](Screenshot 2024-11-10 145458.png)
 ## Lesson Video
 
 1.  [Scaling and Backend Software Engineering](https://youtu.be/v3LxCmYQVS4)
